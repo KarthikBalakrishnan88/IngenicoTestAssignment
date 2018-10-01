@@ -1,4 +1,4 @@
-# NightWatchJS-CucumberJS Framework
+# Ingenico Test Assignment
 
 Java based test automation framework using official [Selenium 3.0](https://www.seleniumhq.org/), [cucumber-js](https://github.com/cucumber/cucumber-js "view cucumber js documentation") and [Rest Assured](https://github.com/rest-assured/rest-assured/wiki/Usage).
 
